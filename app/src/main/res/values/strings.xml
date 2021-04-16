@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Rate Your Hangar!</string>
+
+    <string name="hangarHelp">You can manually add your vehicles here.</string>
+    <string name="hangarHelp3">The changes will be affected after restart!</string>
+    <string name="paste_your_url_from_tunderskill_statistics_here">Write your WT nickname here...</string>
+    <string name="visit_thunderskill">Visit Thunderskill</string>
+    <string name="you_need_url_from_thunderskill_statistics">You need URL from thunderskill/Statistics</string>
+    <string name="get_disappointed_with_your_life">Am I a slave of Gaijin?</string>
+    <string name="total_golden_eagle_spent">Total Golden Eagle spent</string>
+    <string name="other_vehicles">Other vehicles</string>
+    <string name="if_you_only_spent_ge_to_buy_all_these_it_costs">If you only spent GE to buy all these... it costs</string>
+    <string name="fetching_data">Fetching data...</string>
+    <string name="your_vehicle_collection">Your vehicle collection</string>
+    <string name="your_rare_vehicle_collection">Your rare vehicle collection</string>
+    <string name="your_thunder_point">Your Thunder point:</string>
+    <string name="rare">Rare</string>
+    <string name="post_score">Post Score</string>
+    <string name="view_my_hangar">View my Hangar</string>
+    <string name="other_account">Other account</string>
+    <string name="your_premium_vehicle_collection">Your premium vehicle collection</string>
+    <string name="premium">Premium</string>
+    <string name="rare_vehicles">Rare vehicles</string>
+    <string name="total_research_point">Total Research Point</string>
+    <string name="only_count_premiums">Only count Premiums:</string>
+    <string name="signin_other_error">Sign in other error</string>
+    <string name="gamehelper_license_failed">Sign in Failure</string>
+    <string name="app_misconfigured">Sign in Failure</string>
+    <string name="gamehelper_app_misconfigured">Sign in Failure</string>
+    <string name="gamehelper_sign_in_failed">Sign in Failure</string>
+    <string name="gamehelper_unknown_error">Sign in Failure</string>
+    <string name="license_failed">Sign in Failure</string>
+    <string name="unknown_error">Sign in Failure</string>
+    <string name="sign_in_failed">Sign in Failure</string>
+    <string name="sign_in_other_error">Sign in Failure</string>
+    <string name="view_in_detail">view in detail</string>
+    <string name="gv_by_time_played">GV by time played</string>
+    <string name="all">All</string>
+    <string name="groundforce">Ground Force</string>
+    <string name="aircrafts">Aircrafts</string>
+    <string name="my_top_10_aircrafts">My top 10 aircrafts</string>
+    <string name="aircraft">Aircraft</string>
+    <string name="win_rate">Win Rate</string>
+    <string name="anti_air_kda">Anti-Air KDA</string>
+    <string name="anti_tank_kda">Anti-tank KDA</string>
+    <string name="vehicles_by_countries">Vehicles By Countries</string>
+    <string name="country">Country</string>
+    <string name="spaded">Spaded</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="usa">USA</string>
+    <string name="germany">Germany</string>
+    <string name="uk">UK</string>
+    <string name="japan">Japan</string>
+    <string name="italy">Italy</string>
+    <string name="vehicles_by_matches_played">Vehicles By matches played</string>
+    <string name="vehicles_played_less_than_10_games">Vehicles played less than 10 games</string>
+    <string name="my_top_10_tanks">My top 10 tanks</string>
+    <string name="tank">Tank</string>
+    <string name="view_my_garage">View my Garage</string>
+    <string name="btreport">Back to reports</string>
+    <string name="total_account_value">Total Account Value</string>
+    <string name="USSR">USSR</string>
+    <string name="wrongnameerror">Your nickname is wrong, please check or contact the developer.</string>
+    <string name="new_account">New account</string>
+    <string name="saved_accounts">Offline mode</string>
+    <string name="acchelp">View Help for explanation.</string>
+    <string name="helpbox">※Key explanations \n
+    \n※How to use.
+        \n 1. Write your nickname in the text box. The nickname needs to be precise as explained on the photo.
+        \n If you select "Offline mode", it shows the latest data you downloaded.
+        \n Saved data gets automatically updated when you fetch that data again at "New Account".
+        \n
+        \n 2. It is important that you update stats on Thunderskill for precise result.
+        \n Click "Visit Thunderskill" to update your database. \n
+        \n
+        \n 3. At Detail->Hangar, you can manually adjust missing vehicles.
+        \n This changes will affect in next calculation.
+        \n
+        \n
+        \n Report any bugs to bismark439@gmail.com with your WT nickname.
+
+    </string>
+    <string name="button_OK">Thanks</string>
+    <string name="thanks">Thanks for the click, but I am fine (;</string>
+    <string name="wait_real">why not?</string>
+    <string name="feel_like_a_magnate_give_me_a_dollar">└ But if you even "click" ad, dev earns 10 cent..!</string>
+    <string name="watch_an_ad_so_dev_can_earn_0_07">Watch an ad, dev may get $0.03</string>
+    <string name="pls_r8_me">Pls R8 Me!!</string>
+    <string name="r8_this_gr8_app_8_8">R8 this gr8 app 8/8</string>
+    <string name="support_the_poor_developer">┌────────Support the poor developer────────┐</string>
+    <string name="pls_watch_me">PLS Watch me!!</string>
+    <string name="premium_vehicles_by_cost">Premium vehicles by cost</string>
+    <string name="premium_vehicles_by_matches">Premium vehicles by matches</string>
+    <string name="etc">ETC</string>
+    <string name="your_account_rating">Account Rating</string>
+    <string name="account_rating">Inventory Rating</string>
+    <string name="are_you_in_a_situation_you_shouldn_t_make_sound">Are you in a situation you shouldn\'t make sound?</string>
+    <string name="mute_sound">Mute sound</string>
+    <string name="france">France</string>
+    <string name="premiumSeparatorLine">┌──────Premiums──────┐</string>
+    <string name="air_suggestion">Air suggestion</string>
+    <string name="groundsugges">Ground suggestion</string>
+    <string name="mikuru_ai_finds_a_pattern_from_your_play_style_n_and_suggests_the_vehicles_that_people_like_you_play_with">Mikuru AI finds a pattern from your play style,  and suggests other vehicles to play.</string>
+    <string name="choose_your_account_n_saved_from_rate_my_hangar">Choose your account \n  (Saved from Rate My Hangar)</string>
+    <string name="i_would_recommend_these_as_well_n_vehicles_you_have">Why don\'t you play...  \n  (Vehicles you have)</string>
+    <string name="players_like_you_also_play_n_vehicles_you_don_t_have">Other players like you also play ...  \n (Vehicles you don\'t have)</string>
+    <string name="total_silver_lion">Total Silver Lion</string>
+    <string name="practical_value">Practical value</string>
+    <string name="upperpectplayer2">% of all players</string>
+    <string name="this_is_upper">└─── This is upper</string>
+    <string name="get_my_statistic_n_experimental">Get my statistic   (Experimental)</string>
+
+</resources>

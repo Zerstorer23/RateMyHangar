@@ -1,0 +1,78 @@
+ID,GECost,Type,Country,Name
+a6m2_zero_usa,1150,0,0,A6M2
+a6m5ko,25,0,4,A6M5 Ko
+a7he1,550,0,4,A7He1
+a7m1,2150,0,4,A7M1 (NK9H)
+avenger_mk1,1000,0,3,Avenger Mk.1
+b_10b,400,0,0,B-10B
+b-17e_japan,4900,0,4,B-17E
+b_25j_30_vvs_ussr,1450,0,2,B-25J-30
+be_6,30,0,2,BE-6
+bf-109e-3_japan,1060,0,4,Bf 109 E-3
+bf-109f-4_usa,1300,0,0,Bf 109 F-4
+bf-109a_1,250,0,1,Bf.109A
+boomerang_mki,1150,0,3,Boomerang Mk I
+boomerang_mkii,1320,0,3,Boomerang Mk II
+btd-1,1750,0,0,BTD-1
+bv-238,1840,0,1,BV 238
+pby-5a_raf,880,0,3,Catalina Mk. IVa
+cr_32_bis,10,0,5,CR.32 bis
+fiat_cr42_marcolin_italy,250,0,5,CR.42 CN  Marcolin
+do_335b_2,4880,0,1,Do.335B-2
+f3f-2_galer,250,0,0,F3F-2 Galer
+f4u-1a_japan,1150,0,4,F4U-1a
+fw-190a-5_japan,1750,0,4,Fw 190 A-5
+fw-190a-8_usa,4900,0,0,Fw 190 A-8
+fw-190d-13,30,0,1,Fw 190 D-13
+fw-190d-9_ussr,7420,0,2,Fw 190 D-9
+g_55s,30,0,5,G.55S
+h8k3,2300,0,4,H8K3
+a5m4_hagiri,250,0,4,Hagiris A5M4
+hp52_hampden_tbmk1_ussr_utk1,1370,0,2,Hampden TB Mk.I
+he_112b_1,550,0,1,He 112 B-1/U2
+he_219a_7,2670,0,1,He 219 A-7
+hellcat_fmk1,1300,0,3,Hellcat Mk I
+hudson_mk_v,700,0,3,Hudson Mk.V
+hurricanemkii_ussr,700,0,2,Hurricane Mk IIB
+i-153p,950,0,2,I-153P
+i-16_type28,1350,0,2,I-16 type 28
+il_2_1942_luftwaffe,850,0,1,IL-2 (1942)
+j2m4_kai,3850,0,4,J2M4 Kai
+j2m5_30mm,3850,0,4,J2M5
+ki_100_2,1300,0,4,Ki-100-II
+ki_43_2_late,1000,0,4,Ki-43-II
+ki_44_2_otsu,650,0,4,Ki-44-II otsu
+ki_61_1a_otsu_usa,700,0,0,Ki-61-Ib
+ki_87,30,0,4,Ki-87
+ki-96,1600,0,4,Ki-96
+la-11,30,0,2,La-11
+la-5fn_luftwaffe,5250,0,1,La-5FN
+fiat_cr42_marcolin,250,0,1,Marcolins CR.42CN
+p-51b,1850,0,3,Mustang Mk IA
+p-39k_1,1900,0,2,P-39K-1
+p-40e_ussr,700,0,2,P-40E-1
+p-47d_luftwaffe,1300,0,1,P-47D
+p-47d_ussr,1900,0,2,P-47D-27
+p-47m-1-re,30,0,0,P-47M-1-RE
+p-51d-20-na,30,0,0,P-51D-20 NA
+p-61a_1,2500,0,0,P-61A-1
+p-63a-5_ussr,1600,0,2,P-63A-5
+pby-5a_ussr,880,0,2,PBY-5a Catalina
+spitfire_mk14c,7000,0,3,Spitfire F Mk.XIVc
+spitfire_fr_mk14e,30,0,3,Spitfire FR Mk.XIVe
+spitfire_ix_usa,6900,0,0,Spitfire LF Mk IX
+ta_154a_1,1450,0,1,Ta.154A-1
+tempest_mkv_luftwaffe,7100,0,1,Tempest Mk V
+f2a-1_thach,400,0,0,Thachs F2A-1 Buffalo
+gladiator_mk2_tuck,250,0,3,Tucks Gladiator Mk.II
+typhoon_mk1b,20,0,3,Typhoon Mk Ib
+wellington_mk1c_luftwaffe,1000,0,1,Wellington Mk Ic
+wirraway,480,0,3,Wirraway
+wyvern_s4,30,0,3,Wyvern S4
+xa-38,3850,0,0,XA-38
+p-38g_metal,25,0,0,XP-38G
+xp-50,1750,0,0,XP-50
+xp-55,3900,0,0,XP-55
+yak-1b_luftwaffe,1150,0,1,Yak-1B
+yak-3_vk107,6090,0,2,Yak-3 (VK-107)
+i-153_m62_zhukovskiy,250,0,2,Zhukovskys I-153-M62

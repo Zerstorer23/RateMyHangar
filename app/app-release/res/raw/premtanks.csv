@@ -1,0 +1,63 @@
+ID,Cost,Type,Country,
+uk_a_13_mk1_3rd_rtr,250,0,3,A13 Mk.I 3rd RTR
+uk_ac4_thunderbolt,2980,0,3,AC IV Thunderbolt
+germ_panzerbefelhswagen_jagdpanther,6090,0,1,Bfw. Jagdpanther
+uk_a_43_black_prince,40,0,3,Black Prince
+ussr_bm_8_24,3850,0,2,BM-8-24
+germ_sturmpanzer_IV_brummbar,2980,0,1,Brummb r
+us_m4_sherman_calliope,9740,0,0,Calliope
+jp_type_97_chi_ha_12cm,15,0,4,Chi-Ha Short Gun
+us_m4a3e2_sherman_jumbo_cobra_king,2980,0,0,Cobra King
+uk_a27m_cromwell_5_rp3,3450,0,3,Cromwell RP-3
+uk_sherman_ic_firefly,27,0,3,Firefly Scorpion
+jp_type_95_ha_go_commander,250,0,4,Ha-Go Commander
+jp_pzkpfw_VI_ausf_e_tiger,30,0,4,Heavy Tank No.6
+jp_type_5_ho_ri_prototype,35,0,4,Ho-Ri Prototype
+uk_a1e1_independent,2100,0,3,Independent
+ussr_is_6,40,0,2,IS-6
+germ_kv_1_kwk_40,1600,0,1,KV-1B 756(r)
+ussr_kv_1e,18,0,2,KV-1E
+ussr_kv_2_zis_6,25,0,2,KV-2(ZIS-6)
+germ_kv_2_754r,2980,0,1,KV-II 754r
+us_m18_hellcat_black_cat,23,0,0,M18 Black Cat
+us_m26_t99,5990,0,0,M26 T99
+us_m26e1_pershing,7480,0,0,M26E1
+us_m2a4_1st_armor_div,250,0,0,M2A4 (1st Arm.Div.)
+us_m46_patton_73_armor_bat,6090,0,0,M46 Tiger
+ussr_m4a2_76w_sherman,2980,0,2,M4A2
+us_m4a5_ram_2,1150,0,0,M4A5
+germ_mkpz_m47,50,0,1,mKPz M47
+germ_nbfz_VI,1750,0,1,Nb.Fz.
+germ_pz_IV_L70_A,18,0,1,Panzer IV/70(A)
+germ_panzerwerfer_42,4800,0,1,Panzerwerfer 42
+germ_panzerbefelhswagen_IV_ausf_J,1750,0,1,Pz.Bfw.IV
+germ_panzerbefelhswagen_VI_P,6090,0,1,Pz.Bfw.VI (P)
+germ_pzkpfw_II_ausf_C_DAK,250,0,1,Pz.II DAK
+germ_pzkpfw_III_ausf_N,1000,0,1,Pz.III N
+germ_infanterie_kampfpanzer_churchill,1600,0,1,Pz.Kpfw. Churchill
+jp_type_95_heavy,1370,0,4,Ro-Go
+germ_ru251,7480,0,1,Ru 251
+germ_pzkpfw_38t_Aufklarungspanzer,7,0,1,Sd.Kfz. 140/1
+ussr_smk,1300,0,2,SMK
+uk_centurion_mk_3_ss11,40,0,3,Strv 81
+ussr_su_100Y,3850,0,2,SU-100Y
+ussr_su_122P,6090,0,2,SU-122P
+ussr_su_57,550,0,2,SU-57
+us_m18_super_hellcat,7480,0,0,Super Hellcat
+us_t114,8020,0,0,T114
+ussr_t_126sp,550,0,2,T-126
+us_t14,1600,0,0,T14
+us_t20,2980,0,0,T20
+ussr_t_26_1940_1st_GvTBr,250,0,2,T-26 (1st Gv.T.Br.)
+us_t28,7480,0,0,T28
+us_t29,40,0,0,T29
+ussr_t_34_1941_cast_turret,10,0,2,T-34 (1st Gv.T.Br.)
+ussr_t_34_100,6090,0,2,T-34-100
+ussr_t_34_57_1943,1600,0,2,T-34-57 mod. 1943
+germ_t_34_747,2460,0,1,T-34-747(r)
+ussr_t_34_85E,30,0,2,T-34-85E
+ussr_t_35,2100,0,2,T-35
+ussr_t_44_122,6090,0,2,T-44-122
+germ_pzkpfw_VI_ausf_b_tiger_IIh_sla,40,0,1,Tiger II (H) Sla.16
+ussr_pzkpfw_III_ausf_J_L42,700,0,2,T-III
+ussr_zut_37,1000,0,2,ZUT-37

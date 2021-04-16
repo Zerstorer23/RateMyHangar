@@ -1,0 +1,111 @@
+<resources>
+
+    <string name="app_name">워썬더에 부은 돈은?</string>
+    <string name="paste_your_url_from_tunderskill_statistics_here">워썬더 닉네임을 적으세요...</string>
+    <string name="visit_thunderskill">썬더스킬 방문</string>
+    <string name="you_need_url_from_thunderskill_statistics">Thunderskill/Statistics 페이지의 URL이 필요합니다.</string>
+    <string name="get_disappointed_with_your_life">저는 가이진의 노예입니까?</string>
+    <string name="total_golden_eagle_spent">총 골든이글</string>
+    <string name="other_vehicles">일반 장비</string>
+    <string name="if_you_only_spent_ge_to_buy_all_these_it_costs">만약 현찰로 이 모든것을 샀다면 대학 등록금과 맞먹는...</string>
+    <string name="fetching_data">컴퓨터가 한숨 쉬는 중...</string>
+    <string name="your_vehicle_collection">일반 장비 수집률</string>
+    <string name="your_rare_vehicle_collection">희귀 장비 수집률</string>
+    <string name="your_thunder_point">당신의 노예지수:</string>
+    <string name="rare">레어</string>
+    <string name="post_score">장식버튼</string>
+    <string name="view_my_hangar">내 격납고</string>
+    <string name="other_account">다른 계정</string>
+    <string name="your_premium_vehicle_collection">프리미엄 장비 수집률</string>
+    <string name="premium">프리미엄 장비</string>
+    <string name="rare_vehicles">희귀 장비</string>
+    <string name="total_research_point">총 연구점수</string>
+    <string name="only_count_premiums">다행히 프리미엄만 계산하면.. :</string>
+    <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="gamehelper_license_failed">License check failed.</string>
+    <string name="gamehelper_unknown_error">Unknown error.</string>
+    <string name="hangarHelp">없는 장비는 직접 추가할수 있습니다.</string>
+    <string name="hangarHelp3">변경된 사항은 재시작시에 적용됩니다.</string>
+
+      <string name="sign_in_other_error">There was an issue with sign-in, please try again later.</string>
+    <string name="sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="license_failed">License check failed.</string>
+    <string name="unknown_error">Unknown error.</string>
+    <string name="signin_other_error">Sign in other error</string>
+    <string name="view_in_detail">자세히</string>
+    <string name="gv_by_time_played">현재 준비중인 페이지 입니다. 리뷰, 버그리포트, 의견 남겨주시면 감사하겠습니다.</string>
+    <string name="all">전체</string>
+    <string name="groundforce">지상군</string>
+    <string name="aircrafts">공군</string>
+    <string name="my_top_10_aircrafts">최고 10 기체</string>
+    <string name="aircraft">항공기</string>
+    <string name="win_rate">승률</string>
+    <string name="anti_air_kda">대공 KDA</string>
+    <string name="anti_tank_kda">대지 KDA</string>
+    <string name="vehicles_by_countries">국가별 장비</string>
+    <string name="country">국가</string>
+    <string name="spaded">스페이드</string>
+    <string name="vehicles">장비</string>
+    <string name="usa">미국</string>
+    <string name="germany">독일</string>
+    <string name="uk">영국</string>
+    <string name="japan">일본</string>
+    <string name="italy">이탈리아</string>
+    <string name="vehicles_by_matches_played">매치수별 장비</string>
+    <string name="vehicles_played_less_than_10_games">10번이하로 플레이한 장비 비율</string>
+    <string name="my_top_10_tanks">당신의 10대 애마</string>
+    <string name="tank">전차</string>
+    <string name="view_my_garage">내 차고 보기</string>
+    <string name="btreport">리포트로 돌아가자.</string>
+    <string name="total_account_value">계정 총 가치</string>
+    <string name="USSR">소련</string>
+    <string name="wrongnameerror">닉네임이 잘못 입력되었습니다. 다시 확인하거나 개발자에게 연락을 주세요!</string>
+    <string name="new_account">직접 입력</string>
+    <string name="saved_accounts">오프라인 모드</string>
+    <string name="acchelp">설명은 도움말 참조.</string>
+    <string name="helpbox">   \n※사용법
+        \n 1. 입력상자에 워썬더 닉네임을 입력합니다. 사진에 설명되었듯 철자 특수부호까지 정확해야합니다.
+        \n 오프라인모드에서는 가장 마지막으로 열람한 데이터를 볼 수 있습니다.
+        \n
+        \n 2. 정확한 결과를 위해서 Thunderskill 데이터베이스를 업데이트 해야합니다.
+        \n 썬더스킬 방문을 눌러서 데이터를 업데이트 하세요.
+        \n
+        \n 3. 자세히 / 격납고 상단에서 부정확한 정보를 직접 수정할 수 있으며
+        \n 수정된 정보는 재시작시에 적용됩니다.
+    \n
+    \n 버그는 닉네임과 함께 bismark439@gmail.com으로 제보해주세요.
+    </string>
+    <string name="button_OK">ㅇㅇ</string>
+    <string name="thanks"> (;</string>
+    <string name="wait_real">진짜로</string>
+    <string name="feel_like_a_magnate_give_me_a_dollar">└ 광고를 클릭까지 하면 개발자는 10원이나..!</string>
+    <string name="watch_an_ad_so_dev_can_earn_0_07">광고를 "본다". 개발자는 3 원을 벌지도...</string>
+    <string name="pls_r8_me">나를 평가해줘!!</string>
+    <string name="r8_this_gr8_app_8_8">이 엄청난 앱에 5점을 준다.</string>
+    <string name="support_the_poor_developer">┌────────가난한 개발자를 돕는다────────┐</string>
+    <string name="pls_watch_me">광고 원기옥!!</string>
+    <string name="premium_vehicles_by_matches">프리미엄 장비 - 매치 수</string>
+    <string name="premium_vehicles_by_cost">프리미엄 장비 - 가격대</string>
+    <string name="etc">그 외</string>
+    <string name="your_account_rating">계정 가치</string>
+    <string name="account_rating">격납고 가치</string>
+    <string name="are_you_in_a_situation_you_shouldn_t_make_sound">소리를 내면 안되는 장소에 있나요?</string>
+    <string name="mute_sound">음소거</string>
+    <string name="france">프랑스</string>
+    <string name="premiumSeparatorLine">┌──────프미미엄──────┐</string>
+
+    <string name="air_suggestion">항공기</string>
+    <string name="groundsugges">지상군</string>
+    <string name="mikuru_ai_finds_a_pattern_from_your_play_style_n_and_suggests_the_vehicles_that_people_like_you_play_with">
+        아사히나 인공지능이 당신의 플레이 방식에서 패턴을 찾고 당신같은 사람들이 좋아하는 다른 장비를 추천해줍니다.</string>
+    <string name="choose_your_account_n_saved_from_rate_my_hangar">계정을 선택하세요. \n (측정기에서 저장한 기록)</string>
+    <string name="i_would_recommend_these_as_well_n_vehicles_you_have">이런것은 어떨까요...  \n  (가진 장비중에서)</string>
+    <string name="players_like_you_also_play_n_vehicles_you_don_t_have">다른 사람들은 이런것도 ...  \n (소유하지 않은 장비)</string>
+    <string name="total_silver_lion">총 실버 라이언</string>
+    <string name="practical_value">실제 가치</string>
+    <string name="upperpectplayer2">% 입니다.</string>
+    <string name="this_is_upper">└─── 이건 전체 플레이어들 중 상위 </string>
+    <string name="get_my_statistic_n_experimental">기체 추천 \n  (실험적)</string>
+</resources>

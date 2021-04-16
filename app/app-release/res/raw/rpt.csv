@@ -1,0 +1,258 @@
+ID,Research,Lion,Country,Name
+ussr_t_64a_1971,390000,1010000,2, T-64  (1971)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46,320000,790000,1,10.5cm Tiger II
+uk_3_inch_gun_carrier,14000,55000,3,3 inch Gun Carrier
+ussr_gaz_4m,2900,700,2,4M GAZ-AAA
+ussr_gaz_mm_72k,7900,10000,2,72-K GAZ MM
+us_halftrack_m3_75mm_gmc,5900,6300,0,75mm M3 GMC
+germ_sdkfz_9_flak37,18000,77000,1,88 cm Flak 37 Sfl.
+uk_a_13_mk1,0,0,3,A13 Mk.I
+uk_a_13_mk2,2900,700,3,A13 Mk.II
+uk_armored_car_mk_2_aa,9200,22000,3,AC Mk.II AA
+uk_17_pdr_m10_achilles,26000,100000,3,Achilles
+uk_sp_17_pdr_valentine,14000,55000,3,Archer
+ussr_asu_57,26000,100000,2,ASU-57
+ussr_asu_85,220000,610000,2,ASU-85
+uk_a30_sp_avenger,61000,230000,3,Avenger
+ussr_bmp_1,320000,790000,2,BMP-1
+ussr_bt_5,0,0,2,BT-5
+ussr_bt_7_1937,2900,700,2,BT-7
+ussr_btr_152a,11000,38000,2,BTR-152
+uk_fv221_caernarvon,120000,360000,3,Caernarvon
+uk_centurion_mk_1,89000,300000,3,Centurion Mk.1
+uk_centurion_mk_10,270000,690000,3,Centurion Mk.10
+uk_centurion_mk_3,120000,360000,3,Centurion Mk.3
+uk_a30_challenger,89000,300000,3,Challenger
+uk_charioteer_mk_7,100000,310000,3,Charioteer Mk.VII
+uk_chieftain_mk_10,390000,1010000,3,Chieftain Mk.10
+uk_chieftain_mk_3,380000,990000,3,Chieftain Mk.3
+uk_chieftain_mk_5,380000,990000,3,Chieftain Mk.5
+jp_type_97_chi_ha,2900,700,4,Chi-Ha
+jp_type_97_kai,4000,2100,4,Chi-Ha Kai
+jp_type_1_chi_he,7900,10000,4,Chi-He
+jp_type_3_chi_nu,14000,55000,4,Chi-Nu
+jp_type_5_chi_ri,61000,230000,4,Chi-Ri II
+jp_type_4_chi_to,36000,140000,4,Chi-To
+jp_type_4_chi_to_late,50000,190000,4,Chi-To Late
+uk_a_22_mk_1_churchill_1941,14000,55000,3,Churchill Mk.I
+uk_a_22b_mk_3_churchill_1942,18000,77000,3,Churchill Mk.III
+uk_a_22f_mk_7_churchill_1944,50000,190000,3,Churchill Mk.VII
+germ_flakpanzer_V_Coelian,120000,360000,1,Coelian
+uk_a_34_comet,75000,250000,3,Comet I
+uk_conqueror_mk_2,380000,990000,3,Conqueror
+uk_fv4004_conway,270000,690000,3,Conway
+uk_a27m_cromwell_1,14000,55000,3,Cromwell I
+uk_a27m_cromwell_5,9200,22000,3,Cromwell V
+uk_crusader_aa_mk_1,75000,250000,3,Crusader AA Mk.I
+uk_crusader_aa_mk_2,18000,77000,3,Crusader AA Mk.II
+uk_crusader_mk_2,5900,6300,3,Crusader Mk.II
+uk_crusader_mk_3,9200,22000,3,Crusader Mk.III
+uk_daimler_mk_2,2900,700,3,Daimler AC Mk.II
+germ_pzsfl_IVa_dickermax,36000,140000,1,Dicker Max
+ussr_gaz_dshk,2900,700,2,DShK GAZ MM
+uk_falcon,380000,990000,3,Falcon
+germ_panzerjager_tiger_P_ferdinand,120000,360000,1,Ferdinand
+germ_flakpanzer_I_ausf_A,4000,2100,1,Flakpanzer I
+germ_flakpz_I_Gepard,380000,990000,1,FlakPz I Gepard
+uk_fv4005,220000,610000,3,FV4005
+uk_fv4202,100000,310000,3,FV4202
+germ_flakpanzer_38t_Gepard,5900,6300,1,Gepard
+jp_type_95_ha_go,0,0,4,Ha-Go
+jp_type_2_ho_i,5900,6300,4,Ho-I
+jp_type_3_ho_ni_I,5900,6300,4,Ho-Ni I
+jp_type_3_ho_ni_III,7900,10000,4,Ho-Ni III
+jp_type_4_ho_ro,4000,2100,4,Ho-Ro
+jp_type_89b_i_go_otsu,0,0,4,I-Go Ko
+ussr_is_1,75000,250000,2,IS-1
+ussr_is_2_1943,100000,310000,2,IS-2
+ussr_is_2_1944,120000,360000,2,IS-2 mod. 1944
+ussr_is_3,320000,790000,2,IS-3
+ussr_is_4m,380000,990000,2,IS-4M
+ussr_isu_122,75000,250000,2,ISU-122
+ussr_isu_122s,100000,310000,2,ISU-122S
+ussr_isu_152,89000,300000,2,ISU-152
+ussr_it_1,380000,990000,2,IT-1
+germ_panzerjager_panther,100000,310000,1,Jagdpanther
+germ_jgdpz_38t,36000,140000,1,Jagdpanzer 38(t)
+germ_jgdpz_IV_L48,50000,190000,1,Jagdpanzer IV
+germ_panzerjager_tiger,380000,990000,1,Jagdtiger
+germ_kanonenjagdpanzer,380000,990000,1,Jpz 4-5
+jp_type_2_ka_mi,4000,2100,4,Ka-Mi
+jp_type_98_ke_ni,2900,700,4,Ke-Ni
+germ_kpz_70,390000,1010000,1,KPz-70
+germ_flakpanzer_IV_Kugelblitz,270000,690000,1,Kugelblitz
+ussr_kv_1_L_11,11000,38000,2,KV-1 L-11
+ussr_kv_1_zis_5,36000,140000,2,KV-1 ZiS-5
+ussr_kv_1s,26000,100000,2,KV-1S
+ussr_kv_2_1939,50000,190000,2,KV-2 1939
+ussr_kv_85,61000,230000,2,KV-85
+germ_leopard_I_a1,380000,990000,1,Leopard A1A1
+germ_leopard_I,380000,990000,1,Leopard I
+us_lvt_a_1,0,0,0,LVT(A)(1)
+us_m10,14000,55000,0,M10 GMC
+us_m103,380000,990000,0,M103
+us_halftrack_m13,2900,700,0,M13 MGMC
+us_halftrack_m15,18000,77000,0,M15 CGMC
+us_halftrack_m16,7900,10000,0,M16 MGMC
+us_m163_vulcan,380000,990000,0,M163
+us_m18_hellcat,36000,140000,0,M18 GMC
+us_m19,61000,230000,0,M19
+us_m2_medium,2900,700,0,M2
+us_m22_locust,9200,22000,0,M22
+jp_m24_chaffee,26000,100000,4,M24
+us_m24_chaffee,18000,77000,0,M24
+us_m26_pershing,120000,360000,0,M26
+us_m2a2,2900,700,0,M2A2
+us_m2a4,0,0,0,M2A4
+us_m3_lee,7900,10000,0,M3 Lee
+us_m3_stuart,2900,700,0,M3 Stuart
+us_m36,89000,300000,0,M36 GMC
+us_m3a1_stuart,4000,2100,0,M3A1 Stuart
+us_m4_sherman,18000,77000,0,M4
+jp_m41_walker_bulldog,100000,310000,4,M41A1
+us_m41_walker_bulldog,89000,300000,0,M41A1
+jp_m42_duster,220000,610000,4,M42 Duster
+us_m42_duster,220000,610000,0,M42 Duster
+us_m46_patton,220000,610000,0,M46
+us_m47_patton_II,270000,690000,0,M47
+us_m48a1_patton_III,320000,790000,0,M48A1
+us_m4a1_1942_sherman,14000,55000,0,M4A1
+us_m4a1_76w_sherman,61000,230000,0,M4A1 (76) W
+us_m4a2_sherman,50000,190000,0,M4A2
+us_m4a2_76w_sherman,75000,250000,0,M4A2 (76) W
+us_m4a3_105_sherman,18000,77000,0,M4A3 (105)
+jp_m4a3e8_76w_sherman,61000,230000,4,M4A3 (76) W
+us_m4a3e8_76w_sherman,89000,300000,0,M4A3 (76) W
+us_m4a3e2_sherman_jumbo,75000,250000,0,M4A3E2
+us_m4a3e2_76w_sherman_jumbo,89000,300000,0,M4A3E2 (76) W
+us_m50_ontos,140000,380000,0,M50 Ontos
+us_m551,380000,990000,0,M551
+us_m56_scorpion,270000,690000,0,M56
+us_m5a1_stuart,7900,10000,0,M5A1
+us_m60,380000,990000,0,M60
+us_m60a1,380000,990000,0,M60A1
+us_m60a1_rise_passive_era,380000,990000,0,M60A1 RISE (P)
+us_m60a2,380000,990000,0,M60A2
+us_m6a1,61000,230000,0,M6A1
+us_m8_scott,5900,6300,0,M8
+germ_pzkpfw_38t_Marder_III,9200,22000,1,Marder III
+germ_pzkpfw_38t_Marder_III_ausf_H,11000,38000,1,Marder III H
+uk_a_12_mk_2_matilda_2,11000,38000,3,Matilda Mk.II
+germ_pzkpfw_Maus,380000,990000,1,Maus
+us_mbt_70,390000,1010000,0,MBT-70
+germ_panzerjager_nashorn,61000,230000,1,Nashorn
+jp_type_5_na_to,14000,55000,4,Na-To
+ussr_object_268,380000,990000,2,Object 268
+ussr_object_906,270000,690000,2,Object 906
+germ_flakpanzer_IV_Ostwind,50000,190000,1,Ostwind
+germ_pzkpfw_V_ausf_a_panther,75000,250000,1,Panther A
+germ_pzkpfw_V_ausf_d_panther,61000,230000,1,Panther D
+germ_pzkpfw_V_ausf_f_panther,120000,360000,1,Panther F
+germ_pzkpfw_V_ausf_g_panther,89000,300000,1,Panther G
+germ_panther_II,270000,690000,1,Panther II
+germ_pz_IV_L70,61000,230000,1,Panzer IV/70(V)
+germ_panzerjager_1,4000,2100,1,Panzerj ger I
+ussr_pt_76b,89000,300000,2,PT-76B
+germ_pzkpfw_35t,0,0,1,Pz.35(t)
+germ_pzkpfw_38t_ausf_A,2900,700,1,Pz.38(t) A
+germ_pzkpfw_38t_ausf_F,5900,6300,1,Pz.38(t) F
+germ_pzkpfw_II_ausf_C,2900,700,1,Pz.II C
+germ_pzkpfw_II_ausf_F,2900,700,1,Pz.II F
+germ_pzkpfw_III_ausf_B,0,0,1,Pz.III B
+germ_pzkpfw_III_ausf_E,4000,2100,1,Pz.III E
+germ_pzkpfw_III_ausf_F,5900,6300,1,Pz.III F
+germ_pzkpfw_III_ausf_J_L42,9200,22000,1,Pz.III J
+germ_pzkpfw_III_ausf_J,5900,6300,1,Pz.III J1
+germ_pzkpfw_III_ausf_L,14000,55000,1,Pz.III L
+germ_pzkpfw_III_ausf_M,18000,77000,1,Pz.III M
+germ_pzkpfw_IV_ausf_C,4000,2100,1,Pz.IV C
+germ_pzkpfw_IV_ausf_E,5900,6300,1,Pz.IV E
+germ_pzkpfw_IV_ausf_F,7900,10000,1,Pz.IV F1
+germ_pzkpfw_IV_ausf_F2,11000,38000,1,Pz.IV F2
+germ_pzkpfw_IV_ausf_G,26000,100000,1,Pz.IV G
+germ_pzkpfw_IV_ausf_H,36000,140000,1,Pz.IV H
+germ_pzkpfw_IV_ausf_J,50000,190000,1,Pz.IV J
+germ_raketenjagdpanzer_2,380000,990000,1,RakJPz 2
+germ_raketenjagdpanzer_2_hot,380000,990000,1,RakJPz 2 HOT
+germ_sdkfz_6_2_flak36,11000,38000,1,Sd.Kfz. 6/2
+germ_sdkfz_234_2,9200,22000,1,Sd.Kfz.234/2
+uk_sherman_vc_firefly,61000,230000,3,Sherman Firefly
+uk_sherman_II,26000,100000,3,Sherman II
+jp_type_95_so_ki,18000,77000,4,So-Ki
+jp_st_a1,220000,610000,4,ST-A1
+jp_st_a2,270000,690000,4,ST-A2
+jp_st_b1,380000,990000,4,STB-1
+uk_fv102_striker,380000,990000,3,Striker
+germ_stug_III_ausf_A,5900,6300,1,StuG III A
+germ_stug_III_ausf_F,14000,55000,1,StuG III F
+germ_stug_III_ausf_G,26000,100000,1,StuG III G
+germ_stuh_III_ausf_G,18000,77000,1,StuH 42 G
+germ_pzsflk40_sturer_emil,89000,300000,1,Sturer Emil
+germ_sturmpanzer_II,7900,10000,1,Sturmpanzer II
+ussr_su_100_1945,220000,610000,2,SU-100
+ussr_su_100p,140000,380000,2,Su-100
+ussr_su_122,14000,55000,2,SU-122
+ussr_su_122_54,380000,990000,2,SU-122-54
+ussr_su_152,50000,190000,2,SU-152
+ussr_su_5_1,4000,2100,2,Su-5-1
+ussr_su_76m_1943,7900,10000,2,SU-76M
+ussr_su_85_1943,36000,140000,2,SU-85
+ussr_su_85m,61000,230000,2,SU-85M
+uk_fv438_swingfire,380000,990000,3,Swingfire
+ussr_t_10m,380000,990000,2,T-10M
+uk_t17e2,2900,700,3,T17E2
+us_t25,100000,310000,0,T25
+ussr_t_26_1940,0,0,2,T-26
+ussr_t_26_4,4000,2100,2,T-26-4
+us_t26e4_superpershing,220000,610000,0,T26E1-1
+ussr_t_28,7900,10000,2,T-28
+ussr_t_28E,9200,22000,2,T-28E
+us_t32,270000,690000,0,T32
+us_t34,220000,610000,0,T34
+ussr_t_34_1941_l_11,7900,10000,2,T-34 1940
+ussr_t_34_1941,9200,22000,2,T-34 1941
+ussr_t_34_1942,14000,55000,2,T-34 1942
+ussr_t_34_1941_57,26000,100000,2,T-34-57
+ussr_t_34_85_zis_53,75000,250000,2,T-34-85
+ussr_t_34_85_d_5t,50000,190000,2,T-34-85(D-5T)
+ussr_t_34E_STZ,18000,77000,2,T-34E STZ
+ussr_t_44,120000,360000,2,T-44
+ussr_t_44_100,220000,610000,2,T-44-100
+ussr_t_50,5900,6300,2,T-50
+ussr_t_54_1947,270000,690000,2,T-54 1947
+ussr_t_54_1949,320000,790000,2,T-54 1949
+ussr_t_54_1951,380000,990000,2,T-54 1951
+ussr_t_55a,380000,990000,2,T-55
+ussr_t_60_1941,2900,700,2,T-60
+ussr_t_62,380000,990000,2,T-62
+ussr_t_70_1942,4000,2100,2,T-70
+ussr_t_80,7900,10000,2,T-80
+us_t92,220000,610000,0,T92
+us_t95,270000,690000,0,T95
+us_t95e1,380000,990000,0,T95E1
+jp_type_98_ta_se,4000,2100,4,Ta-Se
+uk_a17_mk_1_tetrarch,0,0,3,Tetrarch Mk.I
+germ_pzkpfw_VI_ausf_e_tiger,75000,250000,1,Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger,61000,230000,1,Tiger H1
+germ_pzkpfw_VI_ausf_b_tiger_IIh,120000,360000,1,Tiger II (H)
+germ_pzkpfw_VI_ausf_b_tiger_IIp,100000,310000,1,Tiger II (P)
+uk_a39_tortoise,120000,360000,3,Tortoise
+jp_type_60_atm,380000,990000,4,Type 60 ATM
+jp_type_60_sprg,220000,610000,4,Type 60 SPRG
+jp_type_61,320000,790000,4,Type 61
+jp_type_74,380000,990000,4,Type 74
+jp_type_87,380000,990000,4,Type 87
+jp_type_94,2900,700,4,Type 94
+uk_valentine_mk_1,7900,10000,3,Valentine Mk.I
+uk_valentine_mk_9,11000,38000,3,Valentine Mk.IX
+uk_valentine_mk_11,9200,22000,3,Valentine Mk.XI
+uk_vickers_mbt_mk_1,270000,690000,3,Vickers MBT
+germ_waffentrager_krupp_steyr,70000,240000,1,Waffentr ger
+germ_flakpanzer_IV_Wirbelwind,26000,100000,1,Wirbelwind
+ussr_zis_12_94KM_1945,18000,77000,2,ZIS-12 94km
+ussr_zis_30,7900,10000,2,ZIS-30
+ussr_zis_43,26000,100000,2,ZIS-43
+ussr_zsu_29k,18000,77000,2,ZSU 29-k
+ussr_zsu_23_4,380000,990000,2,ZSU-23-4
+ussr_zsu_37,61000,230000,2,ZSU-37
+ussr_zsu_57_2,320000,790000,2,ZSU-57-2
